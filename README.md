@@ -10,5 +10,5 @@ for installation on ubuntu:
 Take a pull from git repository and try to understanding features. For running the file hit following command in terminal
 
     node file_name.js
-    
-Check out your output.
+
+Check the output.
